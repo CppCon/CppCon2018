@@ -7,7 +7,7 @@ import sys
 import re
 import subprocess
 
-CPPCON_YEAR = 2017
+CPPCON_YEAR = 2018
 
 def shell_call(cmd):
     process = subprocess.Popen(cmd, shell=True)
@@ -197,8 +197,8 @@ def add_presentation(path):
             author = input("Author: ")
 
         if filename != 'README.md':
-            new_filename = "{} - {} - CppCon 2017{}".format(title, author,
-                                                            ext)
+            new_filename = "{} - {} - CppCon {}{}".format(title, author,
+                                                            CPPCON_YEAR, ext)
         else:
             new_filename = filename
             contents = None
@@ -224,7 +224,7 @@ def add_presentation(path):
 
 if __name__ == '__main__':
     if not (exists('_tools') and isdir('_tools')):
-        print("Run this from the CppCon2017 root.")
+        print("Run this from the CppCon{} root.".format(CPPCON_YEAR))
         exit(1)
 
     TITLE = None
