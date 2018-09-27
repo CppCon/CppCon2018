@@ -14,7 +14,7 @@ and code from [CppCon 2018](http://cppcon.org).
 
  - [Avoiding Disasters with Strongly Typed C++](Presentations/avoiding_disasters_with_strongly_typed_cpp/avoiding_disasters_with_strongly_typed_cpp__arno_lepisk__cppcon_2018.pdf) by Arno Lepisk
  - [Crafting Embedded Domain Specific Language (EDSL) in C++](Presentations/crafting_embedded_domain_specific_language_in_cpp/crafting_embedded_domain_specific_language_in_cpp__gilang_hamidy__cppcon_2018.pdf) by Gilang Hamidy \[[more materials](Presentations/crafting_embedded_domain_specific_language_in_cpp)\]
- - [DynaMix: A New Take on Polymoprhism](Presentations/dynamix_a_new_take_on_polymoprhism/dynamix_a_new_take_on_polymoprhism__borislav_stanimirov__cppcon_2018.pdf) by Borislav Stanimirov
+ - [DynaMix: A New Take on Polymoprhism](Presentations/dynamix_a_new_take_on_polymoprhism/dynamix_a_new_take_on_polymoprhism__borislav_stanimirov__cppcon_2018.pdf) by Borislav Stanimirov \[[README](Presentations/dynamix_a_new_take_on_polymoprhism/README.md)\]
  - [Make It Fixable: Preparing for Security Vulnerability Reports](Presentations/make_it_fixable/make_it_fixable__patricia_aas__cppcon_2018.pdf) by Patricia Aas
  - [Sane and Safe C++ Classes](Presentations/sane_and_safe_cpp_classes/sane_and_safe_cpp_classes__peter_sommerlad__cppcon_2018.pdf) by Peter Sommerlad
  - [Software Vulnerabilities in C and C++](Presentations/software_vulnerabilities_in_c_and_cpp/software_vulnerabilities_in_c_and_cpp__patricia_aas__cppcon_2018.pdf) by Patricia Aas
