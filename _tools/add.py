@@ -175,10 +175,15 @@ def add_presentation(path):
         if ok == 'n':
             title = input("Title: ")
             author = input("Author: ")
+            ok = ''
 
     file_title = ' '.join(title.lower().split()).replace(' - ', ' ').replace(
         ' ', '_').replace("c++", "cpp")
+    file_title = ''.join([c for c in file_title if c.isalnum() or c == '_'])
+
     file_author = author.lower().replace(' ', '_')
+    file_author = ''.join([c for c in file_author if c.isalnum() or c == '_'])
+
     if filename != 'README.md':
         new_filename = "{}__{}__cppcon_{}{}".format(file_title, file_author,
             CPPCON_YEAR, ext)
