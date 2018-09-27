@@ -24,6 +24,7 @@ and code from [CppCon 2018](http://cppcon.org).
 
 ## Lightning Talks and Lunch Sessions
 
+ - [The Bad Big Wolf Meets Riding Hood Little Red](Lightning%20Talks%20and%20Lunch%20Sessions/the_bad_big_wolf_meets_riding_hood_little_red/the_bad_big_wolf_meets_riding_hood_little_red__borislav_stanimirov__cppcon_2018.pdf) by Borislav Stanimirov
  - [The Shape of a Program](Lightning%20Talks%20and%20Lunch%20Sessions/the_shape_of_a_program/the_shape_of_a_program__james_mcnellis__cppcon_2018.pdf) by James McNellis
 
 ## Posters
