@@ -17,6 +17,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Make It Fixable: Preparing for Security Vulnerability Reports](Presentations/make_it_fixable/make_it_fixable__patricia_aas__cppcon_2018.pdf) by Patricia Aas
  - [Sane and Safe C++ Classes](Presentations/sane_and_safe_cpp_classes/sane_and_safe_cpp_classes__peter_sommerlad__cppcon_2018.pdf) by Peter Sommerlad
  - [Software Vulnerabilities in C and C++](Presentations/software_vulnerabilities_in_c_and_cpp/software_vulnerabilities_in_c_and_cpp__patricia_aas__cppcon_2018.pdf) by Patricia Aas
+ - [The Networking TS in Practice: Testable, Composable Asynchronous I/O in C++](Presentations/the_networking_ts_in_practice/the_networking_ts_in_practice__robert_leahy__cppcon_2018.pptx) by Robert Leahy
  - [Undefined Behavior is Not an Error](Presentations/undefined_behavior_is_not_an_error/undefined_behavior_is_not_an_error__barbara_geller_ansel_sermersheim__cppcon_2018.pdf) by Barbara Geller, Ansel Sermersheim
  - [Unwinding the Stack - Exploring How C++ Exceptions Work on Windows](Presentations/unwinding_the_stack_exploring_how_cpp_exceptions_work_on_windows/unwinding_the_stack_exploring_how_cpp_exceptions_work_on_windows__james_mcnellis__cppcon_2018.pdf) by James McNellis
  - [Woes of Scope Guards and Unique Resource](Presentations/woes_of_scope_guards_and_unique_resource/woes_of_scope_guards_and_unique_resource__peter_sommerlad__cppcon_2018.pdf) by Peter Sommerlad
