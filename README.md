@@ -28,6 +28,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Make It Fixable: Preparing for Security Vulnerability Reports](Presentations/make_it_fixable/make_it_fixable__patricia_aas__cppcon_2018.pdf) by Patricia Aas
  - [minidumps: gdb-compatible, software controlled core dumps](Presentations/minidumps_gdbcompatible_software_controlled_core_dumps/minidumps_gdbcompatible_software_controlled_core_dumps__matthew_fleming__cppcon_2018.pdf) by Matthew Fleming
  - [Multi-Precision Arithmetic for Cryptology in C++, at Run-Time and at Compile-Time](Presentations/multiprecision_arithmetic_for_cryptology_in_cpp/multiprecision_arithmetic_for_cryptology_in_cpp__niek_j_bouman__cppcon_2018.pdf) by Niek J Bouman
+ - [Operator Overloading](Presentations/operator_overloading/operator_overloading__ben_deane__cppcon_2018.pdf) by Ben Deane
  - [Sane and Safe C++ Classes](Presentations/sane_and_safe_cpp_classes/sane_and_safe_cpp_classes__peter_sommerlad__cppcon_2018.pdf) by Peter Sommerlad
  - [Software Vulnerabilities in C and C++](Presentations/software_vulnerabilities_in_c_and_cpp/software_vulnerabilities_in_c_and_cpp__patricia_aas__cppcon_2018.pdf) by Patricia Aas
  - [State Machines Battlefield - Naive vs STL vs Boost](Presentations/state_machines_battlefield_naive_vs_stl_vs_boost/state_machines_battlefield_naive_vs_stl_vs_boost__kris_jusiak__cppcon_2018.pdf) by Kris Jusiak
