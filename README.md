@@ -10,6 +10,7 @@ and code from [CppCon 2018](http://cppcon.org).
 ## Keynotes
 
  - [Concepts - The Future of Generic Programming](Keynotes/concepts_the_future_of_generic_programming/concepts_the_future_of_generic_programming__bjarne_stroustrup__cppcon_2018.pdf) by Bjarne Stroustrup
+ - [Thoughts on a more powerful and simpler C++ (5 of N)](Keynotes/thoughts_on_a_more_powerful_and_simpler_cpp/thoughts_on_a_more_powerful_and_simpler_cpp__herb_sutter__cppcon_2018.pdf) by Herb Sutter
 
 ## Presentations
 
