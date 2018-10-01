@@ -9,6 +9,7 @@ and code from [CppCon 2018](http://cppcon.org).
 
 ## Keynotes
 
+ - [Concepts - The Future of Generic Programming](Keynotes/concepts_the_future_of_generic_programming/concepts_the_future_of_generic_programming__bjarne_stroustrup__cppcon_2018.pdf) by Bjarne Stroustrup
 
 ## Presentations
 
