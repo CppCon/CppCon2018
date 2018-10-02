@@ -47,6 +47,7 @@ and code from [CppCon 2018](http://cppcon.org).
 
 ## Lightning Talks and Lunch Sessions
 
+ - [Big Infrastructure at a Small Scale](Lightning%20Talks%20and%20Lunch%20Sessions/big_infrastructure_at_a_small_scale/big_infrastructure_at_a_small_scale__matthew_von_arx__cppcon_2018.pdf) by Matthew von Arx
  - [[Boost].DI - Inject All The Things!](Lightning%20Talks%20and%20Lunch%20Sessions/boost_di_inject_all_the_things/boost_di_inject_all_the_things__kris_jusiak__cppcon_2018.pdf) by Kris Jusiak
  - [How to create slides about CMake with CMake](Lightning%20Talks%20and%20Lunch%20Sessions/how_to_create_slides_about_cmake_with_cmake/how_to_create_slides_about_cmake_with_cmake__mateusz_pusz__cppcon_2018.pdf) by Mateusz Pusz
  - [Qt Signals and the Coroutines TS](Lightning%20Talks%20and%20Lunch%20Sessions/qt_signals_and_the_coroutines_ts/qt_signals_and_the_coroutines_ts__jeff_trull__cppcon_2018.pdf) by Jeff Trull
