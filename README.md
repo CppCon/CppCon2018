@@ -15,6 +15,7 @@ and code from [CppCon 2018](http://cppcon.org).
 ## Presentations
 
  - [Avoiding Disasters with Strongly Typed C++](Presentations/avoiding_disasters_with_strongly_typed_cpp/avoiding_disasters_with_strongly_typed_cpp__arno_lepisk__cppcon_2018.pdf) by Arno Lepisk
+ - [Building a C++ Reflection System in One Weekend Using Clang and LLVM](Presentations/building_a_cpp_reflection_system_in_one_weekend_using_clang_and_llvm/building_a_cpp_reflection_system_in_one_weekend_using_clang_and_llvm__arvid_gerstmann__cppcon_2018.pdf) by Arvid Gerstmann \[[README](Presentations/building_a_cpp_reflection_system_in_one_weekend_using_clang_and_llvm/README.md)\]
  - [Building Multi-Million Line C++ Projects Effortlessly with the Meson Build System](Presentations/building_multimillion_line_cpp_projects_effortlessly_with_the_meson_build_system/building_multimillion_line_cpp_projects_effortlessly_with_the_meson_build_system__jussi_pakkanen__cppcon_2018.pdf) by Jussi Pakkanen
  - [Class Template Argument Deduction for Everyone](Presentations/class_template_argument_deduction_for_everyone/class_template_argument_deduction_for_everyone__stephan_t_lavavej__cppcon_2018.pdf) by Stephan T. Lavavej
  - [Compile Time Regular Expressions](Presentations/compile_time_regular_expressions/compile_time_regular_expressions__hana_dusikova__cppcon_2018.pdf) by Hana Dusíková \[[README](Presentations/compile_time_regular_expressions/README.md)\]
