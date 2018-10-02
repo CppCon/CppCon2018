@@ -35,6 +35,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Multi-Precision Arithmetic for Cryptology in C++, at Run-Time and at Compile-Time](Presentations/multiprecision_arithmetic_for_cryptology_in_cpp/multiprecision_arithmetic_for_cryptology_in_cpp__niek_j_bouman__cppcon_2018.pdf) by Niek J Bouman
  - [Operator Overloading](Presentations/operator_overloading/operator_overloading__ben_deane__cppcon_2018.pdf) by Ben Deane
  - [Sane and Safe C++ Classes](Presentations/sane_and_safe_cpp_classes/sane_and_safe_cpp_classes__peter_sommerlad__cppcon_2018.pdf) by Peter Sommerlad
+ - [Save $$ Testing Code the Playback-Based Way](Presentations/save_money_testing_code_the_playbackbased_way/save_money_testing_code_the_playbackbased_way__william_clements__cppcon_2018.pptx) by William Clements
  - [Smart References There and Back Again](Presentations/smart_references_there_and_back_again/smart_references_there_and_back_again__erik_valkering__cppcon_2018.pdf) by Erik Valkering
  - [Software Vulnerabilities in C and C++](Presentations/software_vulnerabilities_in_c_and_cpp/software_vulnerabilities_in_c_and_cpp__patricia_aas__cppcon_2018.pdf) by Patricia Aas
  - [State Machines Battlefield - Naive vs STL vs Boost](Presentations/state_machines_battlefield_naive_vs_stl_vs_boost/state_machines_battlefield_naive_vs_stl_vs_boost__kris_jusiak__cppcon_2018.pdf) by Kris Jusiak
