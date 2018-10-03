@@ -47,6 +47,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Undefined Behavior is Not an Error](Presentations/undefined_behavior_is_not_an_error/undefined_behavior_is_not_an_error__barbara_geller_ansel_sermersheim__cppcon_2018.pdf) by Barbara Geller, Ansel Sermersheim
  - [Unwinding the Stack - Exploring How C++ Exceptions Work on Windows](Presentations/unwinding_the_stack_exploring_how_cpp_exceptions_work_on_windows/unwinding_the_stack_exploring_how_cpp_exceptions_work_on_windows__james_mcnellis__cppcon_2018.pdf) by James McNellis
  - [What do you mean thread-safe?](Presentations/what_do_you_mean_threadsafe/what_do_you_mean_threadsafe__geoff_romer__cppcon_2018.pdf) by Geoff Romer \[[.pdf](Presentations/what_do_you_mean_threadsafe/what_do_you_mean_threadsafe__geoff_romer__cppcon_2018.pdf)\] \[[.pptx](Presentations/what_do_you_mean_threadsafe/what_do_you_mean_threadsafe__geoff_romer__cppcon_2018.pptx)\]
+ - [What to Expect from a Next-Generation C++ Build System](Presentations/what_to_expect_from_a_nextgeneration_cpp_build_system/what_to_expect_from_a_nextgeneration_cpp_build_system__boris_kolpackov__cppcon_2018.pdf) by Boris Kolpackov
  - [Woes of Scope Guards and Unique Resource](Presentations/woes_of_scope_guards_and_unique_resource/woes_of_scope_guards_and_unique_resource__peter_sommerlad__cppcon_2018.pdf) by Peter Sommerlad
 
 ## Lightning Talks and Lunch Sessions
