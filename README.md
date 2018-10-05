@@ -40,6 +40,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [minidumps: gdb-compatible, software controlled core dumps](Presentations/minidumps_gdbcompatible_software_controlled_core_dumps/minidumps_gdbcompatible_software_controlled_core_dumps__matthew_fleming__cppcon_2018.pdf) by Matthew Fleming
  - [Multi-Precision Arithmetic for Cryptology in C++, at Run-Time and at Compile-Time](Presentations/multiprecision_arithmetic_for_cryptology_in_cpp/multiprecision_arithmetic_for_cryptology_in_cpp__niek_j_bouman__cppcon_2018.pdf) by Niek J Bouman
  - [Operator Overloading](Presentations/operator_overloading/operator_overloading__ben_deane__cppcon_2018.pdf) by Ben Deane
+ - [Return Value Optimization - Harder Than It Looks](Presentations/return_value_optimization_harder_than_it_looks/return_value_optimization_harder_than_it_looks__arthur_odwyer__cppcon_2018.pdf) by Arthur O'Dwyer
  - [Sane and Safe C++ Classes](Presentations/sane_and_safe_cpp_classes/sane_and_safe_cpp_classes__peter_sommerlad__cppcon_2018.pdf) by Peter Sommerlad
  - [Save $$ Testing Code the Playback-Based Way](Presentations/save_money_testing_code_the_playbackbased_way/save_money_testing_code_the_playbackbased_way__william_clements__cppcon_2018.pptx) by William Clements
  - [Smart References There and Back Again](Presentations/smart_references_there_and_back_again/smart_references_there_and_back_again__erik_valkering__cppcon_2018.pdf) by Erik Valkering
