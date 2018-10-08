@@ -72,6 +72,7 @@ and code from [CppCon 2018](http://cppcon.org).
 
 ## Posters
 
+ - [Efficiently and Comprehensively Reproducing C++ Bug Reports with Sciunit](Posters/efficiently_and_comprehensively_reproducing_cpp_bug_reports_with_sciunit/efficiently_and_comprehensively_reproducing_cpp_bug_reports_with_sciunit__zhihao_yuan_tanu_malik__cppcon_2018.pdf) by Zhihao Yuan, Tanu Malik
  - [Feedback on practical use of c++17 std::filesystem::recursive_directory_iterator](Posters/feedback_on_practical_use_of_cpp17_stdfilesystemrecursive_directory_iterator/feedback_on_practical_use_of_cpp17_stdfilesystemrecursive_directory_iterator__noel_tchidjo_moyo__cppcon_2018.pdf) by Noel Tchidjo Moyo
  - [Fighting Non-determinism in C++ Compiler](Posters/fighting_nondeterminism_in_cpp_compiler/fighting_nondeterminism_in_cpp_compiler__mandeep_singh_grang__cppcon_2018.pdf) by Mandeep Singh Grang
  - [Fighting Non-determinism in C++ Compilers](Posters/fighting_nondeterminism_in_cpp_compilers/fighting_nondeterminism_in_cpp_compilers__mandeep_singh_grang__cppcon_2018.pdf) by Mandeep Singh Grang
