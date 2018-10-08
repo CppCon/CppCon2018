@@ -72,6 +72,7 @@ and code from [CppCon 2018](http://cppcon.org).
 
 ## Posters
 
+ - [Fighting Non-determinism in C++ Compiler](Posters/fighting_nondeterminism_in_cpp_compiler/fighting_nondeterminism_in_cpp_compiler__mandeep_singh_grang__cppcon_2018.pdf) by Mandeep Singh Grang
  - [Fighting Non-determinism in C++ Compilers](Posters/fighting_nondeterminism_in_cpp_compilers/fighting_nondeterminism_in_cpp_compilers__mandeep_singh_grang__cppcon_2018.pdf) by Mandeep Singh Grang
  - [Funky Pools - Active Containers for Refactoring Legacy Code](Posters/funky_pools_active_containers_for_refactoring_legacy_code/funky_pools_active_containers_for_refactoring_legacy_code__norman_birkett__cppcon_2018.pdf) by Norman Birkett
  - [Hardware Memory Tagging makes C++ Memory-Safer](Posters/hardware_memory_tagging_makes_cpp_memorysafer/hardware_memory_tagging_makes_cpp_memorysafer__kostya_serebryany__cppcon_2018.pdf) by Kostya Serebryany
