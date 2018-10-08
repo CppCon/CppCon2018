@@ -72,6 +72,7 @@ and code from [CppCon 2018](http://cppcon.org).
 
 ## Posters
 
+ - [CodeCompass: An Open Software Comprehension Framework](Posters/codecompass_an_open_software_comprehension_framework/codecompass_an_open_software_comprehension_framework__zolta_porkolab_tibor_brunner_marton_csordas_mate_cser%C3%A9p_anett_fekete_endre_fulop_gabor_horvath__cppcon_2018.pdf) by Zoltán Porkoláb, Tibor Brunner, Márton Csordás, Máté Cserép, Anett Fekete, Endre Fülöp, Gábor Horváth
  - [Cpp-Taskflow: Fast Parallel Programming with Task Dependency Graphs](Posters/cpptaskflow_fast_parallel_programming_with_task_dependency_graphs/cpptaskflow_fast_parallel_programming_with_task_dependency_graphs__tsungwei_huang_chunxun_lin_guannan_guo_martin_wong__cppcon_2018.pdf) by Tsung-Wei Huang, Chun-Xun Lin, Guannan Guo, Martin D. F. Wong
  - [Efficiently and Comprehensively Reproducing C++ Bug Reports with Sciunit](Posters/efficiently_and_comprehensively_reproducing_cpp_bug_reports_with_sciunit/efficiently_and_comprehensively_reproducing_cpp_bug_reports_with_sciunit__zhihao_yuan_tanu_malik__cppcon_2018.pdf) by Zhihao Yuan, Tanu Malik
  - [Feedback on practical use of c++17 std::filesystem::recursive_directory_iterator](Posters/feedback_on_practical_use_of_cpp17_stdfilesystemrecursive_directory_iterator/feedback_on_practical_use_of_cpp17_stdfilesystemrecursive_directory_iterator__noel_tchidjo_moyo__cppcon_2018.pdf) by Noel Tchidjo Moyo
