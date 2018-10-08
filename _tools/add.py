@@ -177,9 +177,10 @@ def add_presentation(path):
             author = input("Author: ")
             ok = ''
 
-    file_title = ' '.join(title.lower().split()).replace(' - ', ' ').replace(
+    file_title = title.lower().replace(' - ', ' ').replace(
         ' ', '_').replace("c++", "cpp")
-    file_title = ''.join([c for c in file_title if c.isalnum() or c == '_'])
+    file_title = ''.join([c for c in file_title if c.isalnum() or c in ' _'])
+    file_title = ' '.join(file_title.lower().split())
 
     file_author = author.lower().replace(' ', '_')
     file_author = ''.join([c for c in file_author if c.isalnum() or c == '_'])
