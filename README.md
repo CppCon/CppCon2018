@@ -73,4 +73,5 @@ and code from [CppCon 2018](http://cppcon.org).
 ## Posters
 
  - [Fighting Non-determinism in C++ Compilers](Posters/fighting_nondeterminism_in_cpp_compilers/fighting_nondeterminism_in_cpp_compilers__mandeep_singh_grang__cppcon_2018.pdf) by Mandeep Singh Grang
+ - [The C++ Lands, its amazing creatures and weird beasts](Posters/the_cpp_lands_its_amazing_creatures_and_weird_beasts/the_cpp_lands_its_amazing_creatures_and_weird_beasts__elena_sagalaeva_vladimir_gorshunin__cppcon_2018.jpg) by Elena Sagalaeva, Vladimir Gorshunin
  - [Using C++ to improve productivity in platform with C API](Posters/using_cpp_to_improve_productivity_in_platform_with_c_api/using_cpp_to_improve_productivity_in_platform_with_c_api__alexius_alvin_gilang_hamidy__cppcon_2018.pdf) by Alexius Alvin, Gilang Hamidy
