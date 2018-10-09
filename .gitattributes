@@ -1,4 +1,5 @@
-* text=auto
+*.md text=auto
+*.py text=auto
 *.pdf binary
 *.pptx binary
 *.ppt binary
