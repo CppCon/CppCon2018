@@ -58,6 +58,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [What do you mean thread-safe?](Presentations/what_do_you_mean_threadsafe/what_do_you_mean_threadsafe__geoff_romer__cppcon_2018.pdf) by Geoff Romer \[[.pdf](Presentations/what_do_you_mean_threadsafe/what_do_you_mean_threadsafe__geoff_romer__cppcon_2018.pdf)\] \[[.pptx](Presentations/what_do_you_mean_threadsafe/what_do_you_mean_threadsafe__geoff_romer__cppcon_2018.pptx)\]
  - [What to Expect from a Next-Generation C++ Build System](Presentations/what_to_expect_from_a_nextgeneration_cpp_build_system/what_to_expect_from_a_nextgeneration_cpp_build_system__boris_kolpackov__cppcon_2018.pdf) by Boris Kolpackov
  - [Woes of Scope Guards and Unique Resource](Presentations/woes_of_scope_guards_and_unique_resource/woes_of_scope_guards_and_unique_resource__peter_sommerlad__cppcon_2018.pdf) by Peter Sommerlad
+ - [Writing Standard Library Compliant Data Structures and Algorithms](Presentations/writing_standard_library_compliant_data_structures_and_algorithms/writing_standard_library_compliant_data_structures_and_algorithms__marc_gregoire__cppcon_2018.pptx) by Marc Gregoire
 
 ## Lightning Talks and Lunch Sessions
 
