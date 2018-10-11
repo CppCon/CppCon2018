@@ -42,6 +42,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Liberating the Debugging Experience with the gdb Python API](Presentations/liberating_the_debugging_experience_with_the_gdb_python_api/liberating_the_debugging_experience_with_the_gdb_python_api__jeff_trull__cppcon_2018.pdf) by Jeff Trull
  - [Make It Fixable: Preparing for Security Vulnerability Reports](Presentations/make_it_fixable/make_it_fixable__patricia_aas__cppcon_2018.pdf) by Patricia Aas
  - [minidumps: gdb-compatible, software controlled core dumps](Presentations/minidumps_gdbcompatible_software_controlled_core_dumps/minidumps_gdbcompatible_software_controlled_core_dumps__matthew_fleming__cppcon_2018.pdf) by Matthew Fleming
+ - [Modern C++ in Embedded Systems - The Saga Continues](Presentations/modern_cpp_in_embedded_systems_the_saga_continues/modern_cpp_in_embedded_systems_the_saga_continues__michael_caisse__cppcon_2018.pdf) by Michael Caisse
  - [Multi-Precision Arithmetic for Cryptology in C++, at Run-Time and at Compile-Time](Presentations/multiprecision_arithmetic_for_cryptology_in_cpp/multiprecision_arithmetic_for_cryptology_in_cpp__niek_j_bouman__cppcon_2018.pdf) by Niek J Bouman
  - [OOP is dead, long live Data-oriented design](Presentations/oop_is_dead_long_live_dataoriented_design/oop_is_dead_long_live_dataoriented_design__stoyan_nikolov__cppcon_2018.pdf) by Stoyan Nikolov
  - [Operator Overloading](Presentations/operator_overloading/operator_overloading__ben_deane__cppcon_2018.pdf) by Ben Deane
