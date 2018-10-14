@@ -16,7 +16,7 @@ and code from [CppCon 2018](http://cppcon.org).
 
  - [An Allocator is a Handle to a Heap](Presentations/an_allocator_is_a_handle_to_a_heap/an_allocator_is_a_handle_to_a_heap__arthur_odwyer__cppcon_2018.pdf) by Arthur O'Dwyer
  - [Avoiding Disasters with Strongly Typed C++](Presentations/avoiding_disasters_with_strongly_typed_cpp/avoiding_disasters_with_strongly_typed_cpp__arno_lepisk__cppcon_2018.pdf) by Arno Lepisk
- - [Beast.WebSockets](Presentations/beastwebsockets/beastwebsockets__vinnie_falco__cppcon_2018.pdf) by Vinnie Falco
+ - [Beast.WebSockets](Presentations/beastwebsockets/beastwebsockets__vinnie_falco__cppcon_2018.pdf) by Vinnie Falco \[[README](Presentations/beastwebsockets/README.md)\]
  - [Better C++ using Machine Learning on Large Projects](Presentations/better_cpp_using_machine_learning_on_large_projects/better_cpp_using_machine_learning_on_large_projects__nicolas_fleury_mathieu_nayrolles__cppcon_2018.pdf) by Nicolas Fleury, Mathieu Nayrolles
  - [Build Systems: A Simple Solution to a Complicated Problem](Presentations/build_systems_a_simple_solution_to_a_complicated_problem/build_systems_a_simple_solution_to_a_complicated_problem__peter_bindels__cppcon_2018.pdf) by Peter Bindels
  - [Building a C++ Reflection System in One Weekend Using Clang and LLVM](Presentations/building_a_cpp_reflection_system_in_one_weekend_using_clang_and_llvm/building_a_cpp_reflection_system_in_one_weekend_using_clang_and_llvm__arvid_gerstmann__cppcon_2018.pdf) by Arvid Gerstmann \[[README](Presentations/building_a_cpp_reflection_system_in_one_weekend_using_clang_and_llvm/README.md)\]
