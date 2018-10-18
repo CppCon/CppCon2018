@@ -66,7 +66,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Surprises In Object Lifetime](Presentations/surprises_in_object_lifetime/surprises_in_object_lifetime__jason_turner__cppcon_2018.pdf) by Jason Turner
  - [The Bits Between the Bits](Presentations/the_bits_between_the_bits/the_bits_between_the_bits__matt_godbolt__cppcon_2018.pdf) by Matt Godbolt
  - [The Embedded Device Under Your Desk: UEFI Applications With Modern C++](Presentations/the_embedded_device_under_your_desk_uefi_applications_with_modern_cpp/the_embedded_device_under_your_desk_uefi_applications_with_modern_cpp__morris_hafner__cppcon_2018.pdf) by Morris Hafner
- - [The Most Valuable Values](Presentations/the_most_valuable_values/the_most_valuable_values__juanpe_bolivar__cppcon_2018.pdf) by Juanpe Bolívar
+ - [The Most Valuable Values](Presentations/the_most_valuable_values/the_most_valuable_values__juanpe_bolivar__cppcon_2018.pdf) by Juanpe Bolívar \[[README](Presentations/the_most_valuable_values/README.md)\]
  - [The Networking TS in Practice: Testable, Composable Asynchronous I/O in C++](Presentations/the_networking_ts_in_practice/the_networking_ts_in_practice__robert_leahy__cppcon_2018.pptx) by Robert Leahy \[[README](Presentations/the_networking_ts_in_practice/README.md)\] \[[more materials](Presentations/the_networking_ts_in_practice)\]
  - [These Aren't the COM Objects You're Looking For](Presentations/these_arent_the_com_objects_youre_looking_for/these_arent_the_com_objects_youre_looking_for__victor_ciura__cppcon_2018.pdf) by Victor Ciura
  - [To Kill a Mocking Framework: Tools and Techniques for Testing Callbacks Using Standard C++](Presentations/to_kill_a_mocking_framework/to_kill_a_mocking_framework__alastair_rankine__cppcon_2018.pdf) by Alastair Rankine
