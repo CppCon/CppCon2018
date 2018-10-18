@@ -52,6 +52,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [minidumps: gdb-compatible, software controlled core dumps](Presentations/minidumps_gdbcompatible_software_controlled_core_dumps/minidumps_gdbcompatible_software_controlled_core_dumps__matthew_fleming__cppcon_2018.pdf) by Matthew Fleming
  - [Modern C++ in Embedded Systems - The Saga Continues](Presentations/modern_cpp_in_embedded_systems_the_saga_continues/modern_cpp_in_embedded_systems_the_saga_continues__michael_caisse__cppcon_2018.pdf) by Michael Caisse
  - [Multi-Precision Arithmetic for Cryptology in C++, at Run-Time and at Compile-Time](Presentations/multiprecision_arithmetic_for_cryptology_in_cpp/multiprecision_arithmetic_for_cryptology_in_cpp__niek_j_bouman__cppcon_2018.pdf) by Niek J Bouman
+ - [Named Arguements from Scratch](Presentations/named_arguements_from_scratch/named_arguements_from_scratch__richard_powell__cppcon_2018.pdf) by Richard Powell
  - [OOP is dead, long live Data-oriented design](Presentations/oop_is_dead_long_live_dataoriented_design/oop_is_dead_long_live_dataoriented_design__stoyan_nikolov__cppcon_2018.pdf) by Stoyan Nikolov
  - [Operator Overloading](Presentations/operator_overloading/operator_overloading__ben_deane__cppcon_2018.pdf) by Ben Deane
  - [Rapid Prototyping of Graphics Shaders in Modern C++](Presentations/rapid_prototyping_of_graphics_shaders_in_modern_cpp/rapid_prototyping_of_graphics_shaders_in_modern_cpp__valentin_galea__cppcon_2018.pdf) by Valentin Galea
