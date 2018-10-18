@@ -28,6 +28,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Compile Time Regular Expressions](Presentations/compile_time_regular_expressions/compile_time_regular_expressions__hana_dusikova__cppcon_2018.pdf) by Hana Dusíková \[[README](Presentations/compile_time_regular_expressions/README.md)\]
  - [Concepts as She is Spoke](Presentations/concepts_as_she_is_spoke/concepts_as_she_is_spoke__arthur_odwyer__cppcon_2018.pdf) by Arthur O'Dwyer
  - [C++ Dependency Management from Package Consumption to Project Development](Presentations/cpp_dependency_management_from_package_consumption_to_project_development/cpp_dependency_management_from_package_consumption_to_project_development__boris_kolpackov__cppcon_2018.pdf) by Boris Kolpackov
+ - [C++ Everywhere with WebAssembly](Presentations/cpp_everywhere_with_webassembly/cpp_everywhere_with_webassembly__damien_buhl__cppcon_2018.pdf) by Damien Buhl
  - [Crafting Embedded Domain Specific Language (EDSL) in C++](Presentations/crafting_embedded_domain_specific_language_in_cpp/crafting_embedded_domain_specific_language_in_cpp__gilang_hamidy__cppcon_2018.pdf) by Gilang Hamidy \[[more materials](Presentations/crafting_embedded_domain_specific_language_in_cpp)\]
  - [CUDA Kernels with C++](Presentations/cuda_kernels_with_cpp/cuda_kernels_with_cpp__michael_gopshtein__cppcon_2018.pdf) by Michael Gopshtein
  - [Dealing with Aliasing Using Contracts](Presentations/dealing_with_aliasing_using_contracts/dealing_with_aliasing_using_contracts__gabor_horvath__cppcon_2018.pdf) by Gábor Horváth
