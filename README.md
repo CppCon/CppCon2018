@@ -62,6 +62,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Sane and Safe C++ Classes](Presentations/sane_and_safe_cpp_classes/sane_and_safe_cpp_classes__peter_sommerlad__cppcon_2018.pdf) by Peter Sommerlad
  - [Save $$ Testing Code the Playback-Based Way](Presentations/save_money_testing_code_the_playbackbased_way/save_money_testing_code_the_playbackbased_way__william_clements__cppcon_2018.pptx) by William Clements
  - [Scripting at the Speed of Thought: Using Lua in C++ with sol3](Presentations/scripting_at_the_speed_of_thought_using_lua_in_cpp_with_sol3/scripting_at_the_speed_of_thought_using_lua_in_cpp_with_sol3__jeanheyd_meneide__cppcon_2018.pdf) by JeanHeyd Meneide
+ - [Simplicity - Not Just For Beginners](Presentations/simplicity_not_just_for_beginners/simplicity_not_just_for_beginners__kate_gregory__cppcon_2018.pdf) by Kate Gregory
  - [Smart References There and Back Again](Presentations/smart_references_there_and_back_again/smart_references_there_and_back_again__erik_valkering__cppcon_2018.pdf) by Erik Valkering
  - [Software Vulnerabilities in C and C++](Presentations/software_vulnerabilities_in_c_and_cpp/software_vulnerabilities_in_c_and_cpp__patricia_aas__cppcon_2018.pdf) by Patricia Aas
  - [State Machines Battlefield - Naive vs STL vs Boost](Presentations/state_machines_battlefield_naive_vs_stl_vs_boost/state_machines_battlefield_naive_vs_stl_vs_boost__kris_jusiak__cppcon_2018.pdf) by Kris Jusiak
