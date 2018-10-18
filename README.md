@@ -61,6 +61,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Smart References There and Back Again](Presentations/smart_references_there_and_back_again/smart_references_there_and_back_again__erik_valkering__cppcon_2018.pdf) by Erik Valkering
  - [Software Vulnerabilities in C and C++](Presentations/software_vulnerabilities_in_c_and_cpp/software_vulnerabilities_in_c_and_cpp__patricia_aas__cppcon_2018.pdf) by Patricia Aas
  - [State Machines Battlefield - Naive vs STL vs Boost](Presentations/state_machines_battlefield_naive_vs_stl_vs_boost/state_machines_battlefield_naive_vs_stl_vs_boost__kris_jusiak__cppcon_2018.pdf) by Kris Jusiak
+ - [Surprises In Object Lifetime](Presentations/surprises_in_object_lifetime/surprises_in_object_lifetime__jason_turner__cppcon_2018.pdf) by Jason Turner
  - [The Bits Between the Bits](Presentations/the_bits_between_the_bits/the_bits_between_the_bits__matt_godbolt__cppcon_2018.pdf) by Matt Godbolt
  - [The Embedded Device Under Your Desk: UEFI Applications With Modern C++](Presentations/the_embedded_device_under_your_desk_uefi_applications_with_modern_cpp/the_embedded_device_under_your_desk_uefi_applications_with_modern_cpp__morris_hafner__cppcon_2018.pdf) by Morris Hafner
  - [The Networking TS in Practice: Testable, Composable Asynchronous I/O in C++](Presentations/the_networking_ts_in_practice/the_networking_ts_in_practice__robert_leahy__cppcon_2018.pptx) by Robert Leahy \[[README](Presentations/the_networking_ts_in_practice/README.md)\] \[[more materials](Presentations/the_networking_ts_in_practice)\]
