@@ -18,7 +18,6 @@ and code from [CppCon 2018](http://cppcon.org).
  - [An Allocator is a Handle to a Heap](Presentations/an_allocator_is_a_handle_to_a_heap/an_allocator_is_a_handle_to_a_heap__arthur_odwyer__cppcon_2018.pdf) by Arthur O'Dwyer
  - [Applied Best Practices](Presentations/applied_best_practices/applied_best_practices__jason_turner__cppcon_2018.pdf) by Jason Turner
  - [Avoiding Disasters with Strongly Typed C++](Presentations/avoiding_disasters_with_strongly_typed_cpp/avoiding_disasters_with_strongly_typed_cpp__arno_lepisk__cppcon_2018.pdf) by Arno Lepisk
- - [Beast.WebSockets](Presentations/beastwebsockets/beastwebsockets__vinnie_falco__cppcon_2018.pdf) by Vinnie Falco \[[README](Presentations/beastwebsockets/README.md)\]
  - [Better C++ using Machine Learning on Large Projects](Presentations/better_cpp_using_machine_learning_on_large_projects/better_cpp_using_machine_learning_on_large_projects__nicolas_fleury_mathieu_nayrolles__cppcon_2018.pdf) by Nicolas Fleury, Mathieu Nayrolles
  - [Better Tools in Your Clang Toolbox](Presentations/better_tools_in_your_clang_toolbox/better_tools_in_your_clang_toolbox__victor_ciura__cppcon_2018.pdf) by Victor Ciura
  - [Build Systems: A Simple Solution to a Complicated Problem](Presentations/build_systems_a_simple_solution_to_a_complicated_problem/build_systems_a_simple_solution_to_a_complicated_problem__peter_bindels__cppcon_2018.pdf) by Peter Bindels
@@ -43,6 +42,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Fast Conversion From UTF-8 with C++, DFAs, and SSE Intrinsics](Presentations/fast_conversion_from_utf8_with_cpp_dfas_and_sse_intrinsics/fast_conversion_from_utf8_with_cpp_dfas_and_sse_intrinsics__bob_steagall__cppcon_2018.pdf) by Bob Steagall
  - [Feather: A Modern C++ Web Development Framework](Presentations/feather_a_modern_cpp_web_development_framework/feather_a_modern_cpp_web_development_framework__yu_qi__cppcon_2018.pdf) by Yu Qi
  - [From Metaprogramming Tricks to Elegance](Presentations/from_metaprogramming_tricks_to_elegance/from_metaprogramming_tricks_to_elegance__vincent_reverdy__cppcon_2018.pdf) by Vincent Reverdy
+ - [Get Rich Quick! Using Boost.Beast WebSockets and Networking TS](Presentations/get_rich_quick_using_boostbeast_websockets_and_networking_ts/get_rich_quick_using_boostbeast_websockets_and_networking_ts__vinnie_falco__cppcon_2018.pdf) by Vinnie Falco \[[README](Presentations/get_rich_quick_using_boostbeast_websockets_and_networking_ts/README.md)\]
  - [Git, CMake, Conan - How to ship and reuse our C++ projects](Presentations/git_cmake_conan_how_to_ship_and_reuse_our_cpp_projects/git_cmake_conan_how_to_ship_and_reuse_our_cpp_projects__mateusz_pusz__cppcon_2018.pdf) by Mateusz Pusz
  - [How to Argue(ment)](Presentations/how_to_arguement/how_to_arguement__richard_powell__cppcon_2018.pdf) by Richard Powell
  - [Implementing the Cpp Core Guidelines Lifetime Safety Profile in Clang](Presentations/implementing_the_cpp_core_guidelines_lifetime_safety_profile_in_clang/implementing_the_cpp_core_guidelines_lifetime_safety_profile_in_clang__matthias_gehre_gabor_horvath__cppcon_2018.pdf) by Matthias Gehre, Gabor Horvath
