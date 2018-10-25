@@ -15,6 +15,7 @@ and code from [CppCon 2018](http://cppcon.org).
 ## Presentations
 
  - [A Little Order - Delving Into The STL Sorting Algorithms](Presentations/a_little_order_delving_into_the_stl_sorting_algorithms/a_little_order_delving_into_the_stl_sorting_algorithms__fred_tingaud__cppcon_2018.pdf) by Fred Tingaud
+ - [A Semi Compile/Run-time Map with (Nearly) Zero Overhead Lookup](Presentations/a_semi_compileruntime_map_with_nearly_zero_overhead_lookup/a_semi_compileruntime_map_with_nearly_zero_overhead_lookup__fabian_renngiles__cppcon_2018.pdf) by Fabian Renn-Giles \[[README](Presentations/a_semi_compileruntime_map_with_nearly_zero_overhead_lookup/README.md)\] \[[more materials](Presentations/a_semi_compileruntime_map_with_nearly_zero_overhead_lookup)\]
  - [An Allocator is a Handle to a Heap](Presentations/an_allocator_is_a_handle_to_a_heap/an_allocator_is_a_handle_to_a_heap__arthur_odwyer__cppcon_2018.pdf) by Arthur O'Dwyer
  - [Applied Best Practices](Presentations/applied_best_practices/applied_best_practices__jason_turner__cppcon_2018.pdf) by Jason Turner
  - [Avoiding Disasters with Strongly Typed C++](Presentations/avoiding_disasters_with_strongly_typed_cpp/avoiding_disasters_with_strongly_typed_cpp__arno_lepisk__cppcon_2018.pdf) by Arno Lepisk
