@@ -1,6 +1,7 @@
 **A Semi Compile/Run-time Map with (Nearly) Zero Overhead Lookup** by **Fabian Renn-Giles**
 
 Animated version of the slides can be found at https://goo.gl/igwVxD 
+
 Project source code can also be found at https://github.com/hogliux/semimap
 
 semi::static_map and semi::map
