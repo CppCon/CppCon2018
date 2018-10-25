@@ -90,6 +90,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Qt Signals and the Coroutines TS](Lightning%20Talks%20and%20Lunch%20Sessions/qt_signals_and_the_coroutines_ts/qt_signals_and_the_coroutines_ts__jeff_trull__cppcon_2018.pdf) by Jeff Trull
  - [rof_egnar](Lightning%20Talks%20and%20Lunch%20Sessions/rof_egnar/rof_egnar__peter_sommerlad__cppcon_2018.pdf) by Peter Sommerlad
  - [Set it and Forget it](Lightning%20Talks%20and%20Lunch%20Sessions/set_it_and_forget_it/set_it_and_forget_it__matthew_von_arx__cppcon_2018.pptx) by Matthew von Arx
+ - [Study Group 14: CppCon Report](Lightning%20Talks%20and%20Lunch%20Sessions/study_group_14_cppcon_report/study_group_14_cppcon_report__john_mcfarlane__cppcon_2018.pdf) by John McFarlane
  - [The Bad Big Wolf Meets Riding Hood Little Red](Lightning%20Talks%20and%20Lunch%20Sessions/the_bad_big_wolf_meets_riding_hood_little_red/the_bad_big_wolf_meets_riding_hood_little_red__borislav_stanimirov__cppcon_2018.pdf) by Borislav Stanimirov
  - [The Shape of a Program](Lightning%20Talks%20and%20Lunch%20Sessions/the_shape_of_a_program/the_shape_of_a_program__james_mcnellis__cppcon_2018.pdf) by James McNellis
  - [Trivially Relocatable](Lightning%20Talks%20and%20Lunch%20Sessions/trivially_relocatable/trivially_relocatable__arthur_odwyer__cppcon_2018.pdf) by Arthur O'Dwyer
