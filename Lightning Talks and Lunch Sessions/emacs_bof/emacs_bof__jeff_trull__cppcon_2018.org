@@ -1,0 +1,111 @@
+#+TITLE: Emacs BoF
+#+AUTHOR: Jeff Trull
+#+DATE: 28 September 2018
+
+* Welcome
+** About Me (Jeff Trull)
+- Organizer of the SF Emacs Meetup
+- C++ coder for 10+ years
+** Goals
+- Share Flow and Tips
+- Answer Questions
+** Rough Organization
+- Individual Presentations
+  - Not necessarily formal or with slides, can just be a demo
+  - Let me know if you have one
+  - Arguments about approaches encouraged
+- Questions for the Group
+  - Problems you're experiencing
+  - Things you want to automate
+  - These will be interleaved with presentations
+- Just hanging out and sharing ideas
+  - This is a casual event (my slides notwithstanding)
+* Presentations
+** Ben Deane
+http://github.com/elbeno/dotemacs
+*** Whitespace butler
+
+  https://github.com/lewang/ws-butler
+
+  #+BEGIN_SRC elisp
+  (setq require-final-newline t)
+  (use-package ws-butler
+    :ensure t
+    :config
+    (ws-butler-global-mode)
+    :diminish
+    ws-butler-mode)
+  #+END_SRC
+
+*** Google-this
+
+  Google (with optional site-specificity) thing-at-point
+
+  #+BEGIN_SRC elisp
+  (use-package google-this
+    :ensure t
+    :bind
+    (("C-c <f1>" . google-this-cpp-reference)))
+  #+END_SRC
+
+*** Git interactions
+
+  We all know magit?
+
+  Also:
+
+   - gitconfig-mode
+   - gitignore-mode
+   - git-commit
+   - git-timemachine
+   - git-messenger
+   - diff-hl
+
+*** Other nice packages
+
+   - comment-dwim-2
+   - fill-column-indicator
+   - undo-tree
+   - modern-cpp-font-lock
+
+** Jennifer Wilcox
+*** CQuery language server
+- xref demo
+- appears to be LSP based competitor to clangd
+- someone spoke up for rtags
+*** For more information
+https://github.com/cquery-project/cquery/wiki/Emacs
+** Jeff Trull
+*** General Emacs usage
+- Org for work logging and slides (like these!)
+*** C++ Usage
+- Projectile
+- Clang via LSP
+- gud-gdb, sometimes
+*** Why LSP (IMO)
+- We should use a real compiler
+- We should use a standard protocol
+- Presentation from our meetup https://www.gjp.cc/lsp
+*** What I have working
+- flycheck... most of the time
+- jump to definition
+- completion (helm-company)
+*** What I do *not* have working
+- header name completion
+- anything not associated with a translation unit
+- xref?
+- ??? you tell me
+** One Final Presentation
+- didn't catch the name
+- using Emacs with MSVC on Windows?
+** General Discussion
+*** Window (in the Emacs sense) handling
+- winner-mode
+- Emacs SF meeting on the subject https://www.meetup.com/Emacs-SF/events/254538442/
+
+* Export Configuration                                     :ARCHIVE:noexport:
+# reveal stuff
+#+OPTIONS: num:nil toc:nil ^:nil
+#+REVEAL_TRANS: None
+#+REVEAL_EXTRA_CSS: ./local.css
+
