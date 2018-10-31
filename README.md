@@ -58,6 +58,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Named Arguements from Scratch](Presentations/named_arguements_from_scratch/named_arguements_from_scratch__richard_powell__cppcon_2018.pdf) by Richard Powell \[[README](Presentations/named_arguements_from_scratch/README.md)\] \[[more materials](Presentations/named_arguements_from_scratch)\]
  - [OOP is dead, long live Data-oriented design](Presentations/oop_is_dead_long_live_dataoriented_design/oop_is_dead_long_live_dataoriented_design__stoyan_nikolov__cppcon_2018.pdf) by Stoyan Nikolov
  - [Operator Overloading](Presentations/operator_overloading/operator_overloading__ben_deane__cppcon_2018.pdf) by Ben Deane
+ - [Pessimistic Programming](Presentations/pessimistic_programming/pessimistic_programming__patrice_roy__cppcon_2018.pdf) by Patrice Roy
  - [Rapid Prototyping of Graphics Shaders in Modern C++](Presentations/rapid_prototyping_of_graphics_shaders_in_modern_cpp/rapid_prototyping_of_graphics_shaders_in_modern_cpp__valentin_galea__cppcon_2018.pdf) by Valentin Galea
  - [Regular Types and Why Do I Care?](Presentations/regular_types_and_why_do_i_care/regular_types_and_why_do_i_care__victor_ciura__cppcon_2018.pdf) by Victor Ciura
  - [Return Value Optimization - Harder Than It Looks](Presentations/return_value_optimization_harder_than_it_looks/return_value_optimization_harder_than_it_looks__arthur_odwyer__cppcon_2018.pdf) by Arthur O'Dwyer
