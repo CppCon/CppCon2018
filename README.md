@@ -71,6 +71,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Software Vulnerabilities in C and C++](Presentations/software_vulnerabilities_in_c_and_cpp/software_vulnerabilities_in_c_and_cpp__patricia_aas__cppcon_2018.pdf) by Patricia Aas
  - [State Machines Battlefield - Naive vs STL vs Boost](Presentations/state_machines_battlefield_naive_vs_stl_vs_boost/state_machines_battlefield_naive_vs_stl_vs_boost__kris_jusiak__cppcon_2018.pdf) by Kris Jusiak
  - [Surprises In Object Lifetime](Presentations/surprises_in_object_lifetime/surprises_in_object_lifetime__jason_turner__cppcon_2018.pdf) by Jason Turner
+ - [Teaching Old Compilers New Tricks - Transpiling C++17 to C++11](Presentations/teaching_old_compilers_new_tricks_transpiling_cpp17_to_cpp11/teaching_old_compilers_new_tricks_transpiling_cpp17_to_cpp11__tony_wasserka__cppcon_2018.pdf) by Tony Wasserka
  - [The Bits Between the Bits](Presentations/the_bits_between_the_bits/the_bits_between_the_bits__matt_godbolt__cppcon_2018.pdf) by Matt Godbolt
  - [The Embedded Device Under Your Desk: UEFI Applications With Modern C++](Presentations/the_embedded_device_under_your_desk_uefi_applications_with_modern_cpp/the_embedded_device_under_your_desk_uefi_applications_with_modern_cpp__morris_hafner__cppcon_2018.pdf) by Morris Hafner
  - [The Most Valuable Values](Presentations/the_most_valuable_values/the_most_valuable_values__juanpe_bolivar__cppcon_2018.pdf) by Juanpe Bolívar \[[README](Presentations/the_most_valuable_values/README.md)\]
